@@ -102,10 +102,8 @@
 <table>
 <tr>
 <td width="50%">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=ssaryonjr&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=DD2727&sideNums=DD2727&sideLabels=DD4236&background=FFFFFF00">
+<img width="700" src="http://github-readme-streak-stats.herokuapp.com?user=kjcatherine&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&dates=DD2727&fire=DD2727&currStreakNum=DD7415&currStreakLabel=DD9B00)">
 </td>
-<td width="50%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=ssaryonjr&bg_color=FFFFFF00&hide_border=true&text_color=DD2727&title_color=fa8b00&include_all_commits=true&count_private=true">
 </table>
 </div>
 
