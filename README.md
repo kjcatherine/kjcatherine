@@ -41,7 +41,7 @@
       <h3 align="center">Omoni Cuisine Restaurant"</h3>
         <br />
       <a target="_blank" href="https://omonicuisine.netlify.app/">
-            <img src="images/gif2.gif" width="100%"  alt="Rigley 2"/>
+            <img src="images/gif2.gif" width="100%"  alt="Omoni Cuisine"/>
         </a>
         <br />
         <p align="center">
@@ -62,7 +62,7 @@
       <h3 align="center">Nasa API</h3>
       <br />
         <a target="_blank" href="https://nasa-p-o-t-d.netlify.app/">
-          <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
+          <img src="images/gif4.gif" width="100%" alt="Nasa Api"/>
         </a>
       <br />
         <p align="center">
@@ -79,7 +79,7 @@
       <h3 align="center">Vacation API</h3>
         <br />
         <a target="_blank" href="https://yournextvacationcity.netlify.app/">
-          <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
+          <img src="images/gif3.gif" width="100%" alt="Vacation Api"/>
         </a>
         <br />
         <p align="center">
@@ -109,15 +109,25 @@
 </table>
 </div>
 
-<h2 align="center">Technical Skills</h2>
+<h2 align="center">Technologies</h2>
 <p align="center">
-<img src="https://img.shields.io/badge/HTML5-D14836?style=for-the-badge&logo=html5&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/CSS3-D14836?style=for-the-badge&logo=css3&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/JavaScript-D14836?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height=25>
-<img src="https://img.shields.io/badge/Node.js-D14836?style=for-the-badge&logo=nodedotjs&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/React-D14836?style=for-the-badge&logo=react&logoColor=61DAFB" height=25>
-<img src="https://img.shields.io/badge/MongoDB-D14836?style=for-the-badge&logo=mongodb&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/Visual_Studio-D14836?style=for-the-badge&logo=visual%20studio&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/GIT-D14836?style=for-the-badge&logo=git&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/HTML5-fbae3a?style=for-the-badge&logo=html5&logoColor=orangered" height=25>
+<img src="https://img.shields.io/badge/CSS3-fbae3a?style=for-the-badge&logo=css3&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/JAVASCRIOT-fbae3a?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height=25>
+<img src="https://img.shields.io/badge/NODEJS-fbae3a?style=for-the-badge&logo=nodedotjs&logoColor=orangered" height=25>
+<img src="https://img.shields.io/badge/REACT-fbae3a?style=for-the-badge&logo=react&logoColor=61DAFB" height=25>
+<img src="https://img.shields.io/badge/MONGODB-fbae3a?style=for-the-badge&logo=mongodb&logoColor=orangered" height=25>
+<img src="https://img.shields.io/badge/VSCODE-fbae3a?style=for-the-badge&logo=visual%20studio&logoColor=orangered" height=25>
+<img src="https://img.shields.io/badge/GIT-fbae3a?style=for-the-badge&logo=git&logoColor=orangered" height=25>
+</p>
+
+<h2 align="center">Let's Connect</h2>
+
+<p align="center">
+<a href="https://catherinekj.netlify.app/"><img src="https://img.shields.io/badge/WEBSITE-fbae3a?style=for-the-badge&logo=Codewars&logoColor=orangered" height=25></a>
+<a href="https://twitter.com/dev__KJ"><img src="https://img.shields.io/badge/TWITTER-fbae3a?&style=for-the-badge&logo=twitter&logoColor=orangered" height=25></a>
+<a href="https://www.linkedin.com/in/catherine-chukwu"><img src="https://img.shields.io/badge/LINKEDIN-fbae3a?style=for-the-badge&logo=linkedin&logoColor=orangered" height=25></a>
+<a href="https://www.linkedin.com/in/catherine-chukwu"><img src="https://img.shields.io/badge/ANGELLIST-fbae3a?style=for-the-badge&logo=gmail&logoColor=orangered" height=25></a>
+<a href="https://catherinekj.netlify.app/"><img src="https://img.shields.io/badge/RESUME-fbae3a?style=for-the-badge&logo=googledrive&logoColor=orangered" height=25></a>
 </p>
 
