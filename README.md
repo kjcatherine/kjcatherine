@@ -1,4 +1,4 @@
-![alt text](https://github.com/ssaryonjr/ssaryonjr/blob/main/Github%20Cover.png?raw=true "Logo Title Text 1")
+![alt text](images/banner.png "Logo Title Text 1")
 
 <p align="center">
 <a href="https://twitter.com/samsaryonjr"><img src="https://img.shields.io/badge/@samsaryonjr-D14836?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
@@ -11,7 +11,6 @@
 <p align="center">
     Hi! I'm Catherine, a Software Engineer passionate about technology, with a background in cryptocurrency and real estate marketing. I'm currently open to new connections as well as opportunities. Please reach out to me me through email, twitter or Linkedin.
 </p>
-
 
 <!--Project Section -->
 <h1 align="center">Projects</h1>
@@ -119,27 +118,6 @@
 <img src="https://img.shields.io/badge/Visual_Studio-D14836?style=for-the-badge&logo=visual%20studio&logoColor=white" height=25>
 <img src="https://img.shields.io/badge/GIT-D14836?style=for-the-badge&logo=git&logoColor=white" height=25>
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <h1 align="center">Hi 👋, I'm Catherine</h1>
 <h3 align="center">I'm a Software Engineer passionate about technology, with a background in cryptography and real estate development.</h3>
