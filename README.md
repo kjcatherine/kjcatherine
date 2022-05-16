@@ -84,10 +84,10 @@
         <br />
         <p align="center">
           
-  <a href="https://github.com/kjcatherine/catherinekj" target="_blank">
+  <a href="https://github.com/kjcatherine/my-new-portfolio" target="_blank">
    <img src="https://img.shields.io/badge/REPO-lightgrey?style=for-the-badge&logo=github&logoColor=orangered"/>
   </a>
-  <a href="https://yournextvacationcity.netlify.app/" target="_blank">
+  <a href="https://catherinekj.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/-WEBSITE-green?style=for-the-badge&logo=wordpress&color=fbae3a&logoColor=orangered"/>
   </a>
       </p>
