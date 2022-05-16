@@ -22,7 +22,7 @@
       <h3 align="center">Nikkis good hair bar</h3>
         <br />  
         <a target="_blank" href="https://nikkisgoodhair.netlify.app/">
-            <img src="images/gif1.gif" width="100%" alt="Saloon Website"/>
+            <img src="images/nikki.gif" width="100%" alt="Saloon Website"/>
         </a>
         <br />
         <p align="center">
@@ -128,4 +128,3 @@
 <a href="https://www.linkedin.com/in/catherine-chukwu"><img src="https://img.shields.io/badge/ANGELLIST-fbae3a?style=for-the-badge&logo=gmail&logoColor=orangered" height=25></a>
 <a href="https://catherinekj.netlify.app/"><img src="https://img.shields.io/badge/RESUME-fbae3a?style=for-the-badge&logo=googledrive&logoColor=orangered" height=25></a>
 </p>
-
