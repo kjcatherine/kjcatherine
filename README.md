@@ -1,4 +1,4 @@
-![alt text](images/newbanner4.png "Logo Title Text 1")
+![alt text](images/newbanner1.png "Logo Title Text 1")
 
 <p align="center">
 <a href="https://catherinekj.netlify.app/"><img src="https://img.shields.io/badge/WEBSITE-fbae3a?style=for-the-badge&logo=Codewars&logoColor=orangered" height=25></a>
