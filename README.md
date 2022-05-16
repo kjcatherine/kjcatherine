@@ -4,13 +4,13 @@
 <a href="https://catherinekj.netlify.app/"><img src="https://img.shields.io/badge/WEBSITE-fbae3a?style=for-the-badge&logo=Codewars&logoColor=orangered" height=25></a>
 <a href="https://twitter.com/dev__KJ"><img src="https://img.shields.io/badge/TWITTER-fbae3a?&style=for-the-badge&logo=twitter&logoColor=orangered" height=25></a>
 <a href="https://www.linkedin.com/in/catherine-chukwu"><img src="https://img.shields.io/badge/LINKEDIN-fbae3a?style=for-the-badge&logo=linkedin&logoColor=orangered" height=25></a>
-<a href="https://www.linkedin.com/in/catherine-chukwu"><img src="https://img.shields.io/badge/ANGELLIST-fbae3a?style=for-the-badge&logo=gmail&logoColor=orangered" height=25></a>
+<a href="https://angel.co/u/catherine-chukwu"><img src="https://img.shields.io/badge/ANGELLIST-fbae3a?style=for-the-badge&logo=gmail&logoColor=orangered" height=25></a>
 <a href="https://catherinekj.netlify.app/"><img src="https://img.shields.io/badge/RESUME-fbae3a?style=for-the-badge&logo=googledrive&logoColor=orangered" height=25></a>
 <a href="https://catherinekj.netlify.app/"><img src="https://img.shields.io/badge/CODEWARS-fbae3a?style=for-the-badge&logo=Codewars&logoColor=orangered" height=25></a>
 </p>
 
 <p align="center">
-    Hi! I'm Catherine, a Software Engineer passionate about technology, with a background in cryptocurrency and real estate marketing. I'm currently open to new connections as well as opportunities. Please reach out to me me through email, twitter or Linkedin.
+    Hi! I'm Catherine, a Software Engineer passionate about technology, with a background in cryptocurrency and real estate marketing. I'm currently open to new connections as well as opportunities. Please reach out to me through email, twitter or Linkedin.
 </p>
 
 <!--Project Section -->
@@ -113,7 +113,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-fbae3a?style=for-the-badge&logo=html5&logoColor=orangered" height=25>
 <img src="https://img.shields.io/badge/CSS3-fbae3a?style=for-the-badge&logo=css3&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/JAVASCRIOT-fbae3a?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height=25>
+<img src="https://img.shields.io/badge/JAVASCRIPT-fbae3a?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height=25>
 <img src="https://img.shields.io/badge/NODEJS-fbae3a?style=for-the-badge&logo=nodedotjs&logoColor=orangered" height=25>
 <img src="https://img.shields.io/badge/REACT-fbae3a?style=for-the-badge&logo=react&logoColor=61DAFB" height=25>
 <img src="https://img.shields.io/badge/MONGODB-fbae3a?style=for-the-badge&logo=mongodb&logoColor=orangered" height=25>
@@ -127,6 +127,6 @@
 <a href="https://catherinekj.netlify.app/"><img src="https://img.shields.io/badge/WEBSITE-fbae3a?style=for-the-badge&logo=Codewars&logoColor=orangered" height=25></a>
 <a href="https://twitter.com/dev__KJ"><img src="https://img.shields.io/badge/TWITTER-fbae3a?&style=for-the-badge&logo=twitter&logoColor=orangered" height=25></a>
 <a href="https://www.linkedin.com/in/catherine-chukwu"><img src="https://img.shields.io/badge/LINKEDIN-fbae3a?style=for-the-badge&logo=linkedin&logoColor=orangered" height=25></a>
-<a href="https://www.linkedin.com/in/catherine-chukwu"><img src="https://img.shields.io/badge/ANGELLIST-fbae3a?style=for-the-badge&logo=gmail&logoColor=orangered" height=25></a>
+<a href="https://angel.co/u/catherine-chukwu"><img src="https://img.shields.io/badge/ANGELLIST-fbae3a?style=for-the-badge&logo=gmail&logoColor=orangered" height=25></a>
 <a href="https://catherinekj.netlify.app/"><img src="https://img.shields.io/badge/RESUME-fbae3a?style=for-the-badge&logo=googledrive&logoColor=orangered" height=25></a>
 </p>
