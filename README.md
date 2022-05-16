@@ -41,7 +41,7 @@
       <h3 align="center">Omoni Cuisine Restaurant"</h3>
         <br />
       <a target="_blank" href="https://omonicuisine.netlify.app/">
-            <img src="images/gif2.gif" width="100%"  alt="Omoni Cuisine"/>
+            <img src="images/omoni.gif" width="100%"  alt="Omoni Cuisine"/>
         </a>
         <br />
         <p align="center">
@@ -62,7 +62,7 @@
       <h3 align="center">Nasa API</h3>
       <br />
         <a target="_blank" href="https://nasa-p-o-t-d.netlify.app/">
-          <img src="images/gif4.gif" width="100%" alt="Nasa Api"/>
+          <img src="images/nasa.gif" width="100%" alt="Nasa Api"/>
         </a>
       <br />
         <p align="center">
@@ -76,15 +76,15 @@
         <p><strong>HTML5, CSS3, & Javascript</strong> -NASA Photo of the Day API.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Vacation API</h3>
+      <h3 align="center">Catherinekj.netlify.app</h3>
         <br />
-        <a target="_blank" href="https://yournextvacationcity.netlify.app/">
-          <img src="images/gif3.gif" width="100%" alt="Vacation Api"/>
+        <a target="_blank" href="https://catherinekj.netlify.app/">
+          <img src="images/portfolio.gif" width="100%" alt="Vacation Api"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/kjcatherine/vacation-cities" target="_blank">
+  <a href="https://github.com/kjcatherine/catherinekj" target="_blank">
    <img src="https://img.shields.io/badge/REPO-lightgrey?style=for-the-badge&logo=github&logoColor=orangered"/>
   </a>
   <a href="https://yournextvacationcity.netlify.app/" target="_blank">
