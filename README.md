@@ -35,7 +35,7 @@
    <img src="https://img.shields.io/badge/-WEBSITE-green?style=for-the-badge&logo=wordpress&color=fbae3a&logoColor=orangered"/>
   </a>
       </p>
-        <p><strong>Javascript, CSS</strong> - landing page for a women's saloon!</p>
+        <p><strong>Javascript, CSS</strong> -Hair salon web-app for women</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Omoni Cuisine Restaurant"</h3>
@@ -53,7 +53,7 @@
     <img src="https://img.shields.io/badge/-WEBSITE-green?style=for-the-badge&logo=wordpress&color=fbae3a&logoColor=orangered"/>
   </a>
       </p>
-        <p><strong>Javascript, Bootstrap, PHP, Jquery</strong> - A restaurant website for Omoni Cuisine.</p>
+        <p><strong>Javascript, Bootstrap, PHP, Jquery</strong> - A faimly owned restaurant web-app.</p>
     </td>
   </tr>
   
@@ -76,10 +76,10 @@
         <p><strong>HTML5, CSS3, & Javascript</strong> -NASA Photo of the Day API.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Catherinekj.netlify.app</h3>
+      <h3 align="center">Catherinekj.com</h3>
         <br />
         <a target="_blank" href="https://catherinekj.netlify.app/">
-          <img src="images/portfolio.gif" width="100%" alt="Vacation Api"/>
+          <img src="images/portfolio.gif" width="100%" alt="portfolio"/>
         </a>
         <br />
         <p align="center">
@@ -91,7 +91,7 @@
     <img src="https://img.shields.io/badge/-WEBSITE-green?style=for-the-badge&logo=wordpress&color=fbae3a&logoColor=orangered"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Predicts your next vacation city with speech synthesis API</p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> -Portfolio Site including links to my projects and ways to get in contact with me. </p>
     </td>
   </tr>
 </table>
