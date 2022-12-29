@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-    Hi! I'm Catherine, a Software Engineer passionate about technology, with a background in cryptocurrency and real estate marketing. I'm currently open to new connections as well as opportunities. Please reach out to me through email, twitter or Linkedin.
+    Hi! I'm Catherine, a Software Engineer & Salesforce Professional passionate about technology. I'm currently open to new connections as well as opportunities. Please reach out to me through email, twitter or Linkedin.
 </p>
 
 <!--Project Section -->
