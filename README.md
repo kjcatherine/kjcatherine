@@ -4,7 +4,7 @@
 <a href="https://catherinekj.netlify.app/"><img src="https://img.shields.io/badge/WEBSITE-fbae3a?style=for-the-badge&logo=Codewars&logoColor=orangered" height=25></a>
 <a href="https://twitter.com/dev__KJ"><img src="https://img.shields.io/badge/TWITTER-fbae3a?&style=for-the-badge&logo=twitter&logoColor=orangered" height=25></a>
 <a href="https://www.linkedin.com/in/catherinechukwu"><img src="https://img.shields.io/badge/LINKEDIN-fbae3a?style=for-the-badge&logo=linkedin&logoColor=orangered" height=25></a>
-<a href="https://angel.co/u/catherine-chukwu"><img src="https://img.shields.io/badge/SALESFORCE-fbae3a?style=for-the-badge&logo=trailhead&logoColor=orangered" height=25></a>
+<a href="https://angel.co/u/catherine-chukwu"><img src="https://img.shields.io/badge/SALESFORCE-fbae3a?style=for-the-badge&logo=Codewars&logoColor=blue" height=25></a>
 <a href="https://catherinekj.netlify.app/"><img src="https://img.shields.io/badge/RESUME-fbae3a?style=for-the-badge&logo=googledrive&logoColor=orangered" height=25></a>
 <a href="https://www.codewars.com/users/the_kj"><img src="https://img.shields.io/badge/CODEWARS-fbae3a?style=for-the-badge&logo=Codewars&logoColor=orangered" height=25></a>
 </p>
