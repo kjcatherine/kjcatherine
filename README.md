@@ -2,9 +2,10 @@
 
 <p align="center">
 <a href="https://catherinekj.netlify.app/"><img src="https://img.shields.io/badge/WEBSITE-fbae3a?style=for-the-badge&logo=Codewars&logoColor=orangered" height=25></a>
+<a href="https://devkj-dev-ed.develop.my.site.com/portfolio/s/"><img src="https://img.shields.io/badge/SALESFORCE PORTFOLIO-fbae3a?style=for-the-badge&logo=Codewars&logoColor=orangered" height=25></a>
 <a href="https://twitter.com/dev__KJ"><img src="https://img.shields.io/badge/TWITTER-fbae3a?&style=for-the-badge&logo=twitter&logoColor=orangered" height=25></a>
 <a href="https://www.linkedin.com/in/catherinechukwu"><img src="https://img.shields.io/badge/LINKEDIN-fbae3a?style=for-the-badge&logo=linkedin&logoColor=orangered" height=25></a>
-<a href="https://trailblazer.me/id/catherinechukwu"><img src="https://img.shields.io/badge/SALESFORCE-fbae3a?style=for-the-badge&logo=Codewars&logoColor=blue" height=25></a>
+<a href="https://trailblazer.me/id/catherinechukwu"><img src="https://img.shields.io/badge/TRAILBLAZER-fbae3a?style=for-the-badge&logo=Codewars&logoColor=orangered" height=25></a>
 <a href="https://catherinekj.netlify.app/"><img src="https://img.shields.io/badge/RESUME-fbae3a?style=for-the-badge&logo=googledrive&logoColor=orangered" height=25></a>
 <a href="https://www.codewars.com/users/the_kj"><img src="https://img.shields.io/badge/CODEWARS-fbae3a?style=for-the-badge&logo=Codewars&logoColor=orangered" height=25></a>
 </p>
@@ -119,6 +120,10 @@
 <img src="https://img.shields.io/badge/MONGODB-fbae3a?style=for-the-badge&logo=mongodb&logoColor=orangered" height=25>
 <img src="https://img.shields.io/badge/VSCODE-fbae3a?style=for-the-badge&logo=visual%20studio&logoColor=orangered" height=25>
 <img src="https://img.shields.io/badge/GIT-fbae3a?style=for-the-badge&logo=git&logoColor=orangered" height=25>
+<img src="https://img.shields.io/badge/SALESFORCE-fbae3a?style=for-the-badge&logo=Codewars&logoColor=orangered" height=25>
+<img src="https://img.shields.io/badge/LWC-fbae3a?style=for-the-badge&logo=Codewars&logoColor=orangered" height=25>
+<img src="https://img.shields.io/badge/APEX-fbae3a?style=for-the-badge&logo=Codewars&logoColor=orangered" height=25>
+<img src="https://img.shields.io/badge/SLDS-fbae3a?style=for-the-badge&logo=Codewars&logoColor=orangered" height=25>
 </p>
 
 <h2 align="center">Let's Connect</h2>
@@ -127,4 +132,5 @@
 <a href="https://catherinekj.netlify.app/"><img src="https://img.shields.io/badge/WEBSITE-fbae3a?style=for-the-badge&logo=Codewars&logoColor=orangered" height=25></a>
 <a href="https://twitter.com/dev__KJ"><img src="https://img.shields.io/badge/TWITTER-fbae3a?&style=for-the-badge&logo=twitter&logoColor=orangered" height=25></a>
 <a href="https://www.linkedin.com/in/catherinechukwu"><img src="https://img.shields.io/badge/LINKEDIN-fbae3a?style=for-the-badge&logo=linkedin&logoColor=orangered" height=25></a>
+<a href="https://devkj-dev-ed.develop.my.site.com/portfolio/s/"><img src="https://img.shields.io/badge/SALESFORCE PORTFOLIO-fbae3a?style=for-the-badge&logo=Codewars&logoColor=orangered" height=25></a>
 </p>
